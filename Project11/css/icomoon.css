@@ -1,0 +1,99 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?l17hh8');
+  src:  url('../fonts/icomoon.eot?l17hh8#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?l17hh8') format('truetype'),
+    url('../fonts/icomoon.woff?l17hh8') format('woff'),
+    url('../fonts/icomoon.svg?l17hh8#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-apartment-building2 .path1:before {
+  content: "\e915";
+  color: rgb(0, 0, 0);
+  opacity: 0.25;
+}
+.icon-apartment-building2 .path2:before {
+  content: "\e916";
+  margin-left: -1.15234375em;
+  color: rgb(97, 66, 97);
+}
+.icon-apartment-building2 .path3:before {
+  content: "\e917";
+  margin-left: -1.15234375em;
+  color: rgb(255, 255, 255);
+}
+.icon-banknote2:before {
+  content: "\e918";
+}
+.icon-cup2:before {
+  content: "\e919";
+}
+.icon-film2:before {
+  content: "\e91a";
+}
+.icon-handset2:before {
+  content: "\e91b";
+  color: #f7f7f7;
+}
+.icon-lab2:before {
+  content: "\e91c";
+}
+.icon-lamp2:before {
+  content: "\e91d";
+}
+.icon-like2:before {
+  content: "\e91e";
+}
+.icon-mail2:before {
+  content: "\e91f";
+}
+.icon-pen2:before {
+  content: "\e920";
+}
+.icon-photo2:before {
+  content: "\e921";
+}
+.icon-setings2:before {
+  content: "\e922";
+}
+.icon-setings@2x2:before {
+  content: "\e923";
+}
+.icon-shape-1:before {
+  content: "\e924";
+}
+.icon-shape-32:before {
+  content: "\e925";
+}
+.icon-slideshow2:before {
+  content: "\e926";
+}
+.icon-stack2:before {
+  content: "\e927";
+}
+.icon-star2:before {
+  content: "\e928";
+}
+.icon-user2:before {
+  content: "\e929";
+}
+.icon-world2:before {
+  content: "\e92a";
+}
